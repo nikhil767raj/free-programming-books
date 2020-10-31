@@ -405,6 +405,7 @@
 * [Modern Compiler Design](https://b-ok.asia/book/1313972/1b6615) - Dick Grune (PDF)
 * [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 * [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
+* [The Design and Construction of Compilers](https://b-ok.asia/book/746981/0c1664) - Robin Hunter
 
 
 #### Computer Science
